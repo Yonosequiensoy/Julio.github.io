@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Amoladora 900W",
+        "precio": 265,
+        "imagen": "amoladora.jpg"
+    },
+    {
+        "nombre": "Taladro 500W",
+        "precio": 150,
+        "imagen": "taladro.jpg"
+    }
+]
